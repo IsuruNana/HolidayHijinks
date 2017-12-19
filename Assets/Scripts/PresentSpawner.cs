@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Makes the presents
+
 public class PresentSpawner : MonoBehaviour {
 
 	public GameObject present;
