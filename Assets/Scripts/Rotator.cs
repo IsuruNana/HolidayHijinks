@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Rotates presents
+
 public class Rotator : MonoBehaviour {
 
 	void Update () {
